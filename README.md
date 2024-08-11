@@ -1,8 +1,8 @@
 - 👋 Hi there, I’m Aidana
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript, ReactJS, TypeScript
+- 🌱 I’m currently learning JavaScript, React, TypeScript
 - 💞️ I’m looking to collaborate on Frontend
--  🔗 Email ajdanaturdueva9@gmail.com
+-  🔗 Email ai.turdueva@gmail.com
 
 
 <!---
